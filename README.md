@@ -1,5 +1,7 @@
 # Rust no Termux
 
+[Guia de leitura, infográfico e cuidados](GUIA.md)
+
 Módulo do [MPPT24OS](https://github.com/mppt24/MPPT24OS) dedicado à instalação de Rust no Termux, em Android.
 
 ## Estado · Em evolução
