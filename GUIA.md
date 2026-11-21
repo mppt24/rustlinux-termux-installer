@@ -24,7 +24,7 @@ Não existe um registo validado de instalação nesta versão. O texto do termin
 EXEMPLO · Instalação Rust · Mensagem do esboço
 ```
 
-Lê pela ordem **resultado**, **etapa** e **detalhe**. Para investigar uma falha, confirma primeiro a data e a versão, depois abre o primeiro passo que falhou.
+A mensagem indica que o esboço correu. A instalação de Rust teria de ser confirmada separadamente no Termux, por exemplo verificando a versão com `rustc --version`.
 
 ## Cuidados
 
