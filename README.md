@@ -2,7 +2,7 @@
 
 Módulo do [MPPT24OS](https://github.com/mppt24/MPPT24OS) dedicado à instalação de Rust no Termux, em Android.
 
-## Estado atual
+## Estado · Em evolução
 
 Os scripts públicos são esboços. Cada um escreve uma mensagem no terminal. A verificação do ambiente e a instalação de Rust ainda estão em preparação.
 
